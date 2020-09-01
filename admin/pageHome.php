@@ -209,9 +209,9 @@
 
 		<div class="col-md-4" id="twitter-feed">
 			<h3>
-				<?php echo $Translation["BigProf tweets"]; ?>
+				<?php echo $Translation["MansionGlobal tweets"]; ?>
 				<span class="pull-right">
-					<a class="twitter-follow-button" href="https://twitter.com/bigprof" data-show-count="false" data-lang="en"><?php echo $Translation["follow BigProf"]; ?></a>
+					<a class="twitter-follow-button" href="https://twitter.com/MansionGlobal" data-show-count="false" data-lang="en"><?php echo $Translation["follow MansionGlobal"]; ?></a>
 					<script type="text/javascript">
 						window.twttr = (function (d, s, id) {
 							var t, js, fjs = d.getElementsByTagName(s)[0];
@@ -225,7 +225,7 @@
 				</span>
 			</h3><hr>
 			<div class="text-center">
-				<a class="twitter-timeline" height="400" href="https://twitter.com/bigprof" data-widget-id="552758720300843008" data-chrome="nofooter noheader"><?php echo $Translation["loading bigprof feed"]; ?></a>
+				<a class="twitter-timeline" height="400" href="https://twitter.com/MansionGlobal" data-widget-id="552758720300843008" data-chrome="nofooter noheader"><?php echo $Translation["loading MansionGlobal feed"]; ?></a>
 				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 			</div>
 			<div class="text-right hidden" id="remove-feed-link"><a href="pageSettings.php#hide_twitter_feed"><i class="glyphicon glyphicon-remove"></i> <?php echo $Translation["remove feed"]; ?></a></div>
