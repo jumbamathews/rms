@@ -9,7 +9,7 @@
 				<div style="height: 60px;" class="hidden-print"></div>
 				<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
 					<p class="navbar-text"><small>
-							Crafted by <a class="navbar-link" href="" target="_blank">Lorna Sitati</a>
+							Powered by <a class="navbar-link" href="https://mysys.io" target="_blank">MJsys</a>
 					</small></p>
 				</nav>
 			<?php } ?>
